@@ -21,7 +21,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/hammerhead/proprietary/bin/ds_fmc_appd:system/bin/ds_fmc_appd \
     vendor/lge/hammerhead/proprietary/bin/irsc_util:system/bin/irsc_util \
     vendor/lge/hammerhead/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
-    vendor/lge/hammerhead/proprietary/bin/mpdecision:system/bin/mpdecision \
     vendor/lge/hammerhead/proprietary/bin/netmgrd:system/bin/netmgrd \
     vendor/lge/hammerhead/proprietary/bin/nl_listener:system/bin/nl_listener \
     vendor/lge/hammerhead/proprietary/bin/port-bridge:system/bin/port-bridge \
