@@ -30,7 +30,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/hammerhead/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/lge/hammerhead/proprietary/bin/sensors.qcom:system/bin/sensors.qcom \
     vendor/lge/hammerhead/proprietary/bin/subsystem_ramdump:system/bin/subsystem_ramdump \
-    vendor/lge/hammerhead/proprietary/bin/thermal-engine-hh:system/bin/thermal-engine-hh \
     vendor/lge/hammerhead/proprietary/bin/time_daemon:system/bin/time_daemon \
     vendor/lge/hammerhead/proprietary/bin/usbhub:system/bin/usbhub \
     vendor/lge/hammerhead/proprietary/bin/usbhub_init:system/bin/usbhub_init \
